@@ -4,6 +4,8 @@ import pingpong_pb2_grpc
 import time
 import grpc
 
+print(__name__)
+
 
 def run():
     counter = 0

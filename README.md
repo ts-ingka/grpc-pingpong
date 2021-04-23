@@ -28,6 +28,12 @@ pip install -r requirements.txt
 python server.py
 ```
 
+## Start multiple clients in one go
+
+```
+python multiprocess.py
+```
+
 ## Start client
 
 ```
